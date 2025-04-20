@@ -1,0 +1,14 @@
+C:\Users\PC\ProjetoBatalha\bin\Debug\net8.0\ProjetoBatalha.exe
+C:\Users\PC\ProjetoBatalha\bin\Debug\net8.0\ProjetoBatalha.deps.json
+C:\Users\PC\ProjetoBatalha\bin\Debug\net8.0\ProjetoBatalha.runtimeconfig.json
+C:\Users\PC\ProjetoBatalha\bin\Debug\net8.0\ProjetoBatalha.dll
+C:\Users\PC\ProjetoBatalha\bin\Debug\net8.0\ProjetoBatalha.pdb
+C:\Users\PC\ProjetoBatalha\obj\Debug\net8.0\ProjetoBatalha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\ProjetoBatalha\obj\Debug\net8.0\ProjetoBatalha.AssemblyInfoInputs.cache
+C:\Users\PC\ProjetoBatalha\obj\Debug\net8.0\ProjetoBatalha.AssemblyInfo.cs
+C:\Users\PC\ProjetoBatalha\obj\Debug\net8.0\ProjetoBatalha.csproj.CoreCompileInputs.cache
+C:\Users\PC\ProjetoBatalha\obj\Debug\net8.0\ProjetoBatalha.dll
+C:\Users\PC\ProjetoBatalha\obj\Debug\net8.0\refint\ProjetoBatalha.dll
+C:\Users\PC\ProjetoBatalha\obj\Debug\net8.0\ProjetoBatalha.pdb
+C:\Users\PC\ProjetoBatalha\obj\Debug\net8.0\ProjetoBatalha.genruntimeconfig.cache
+C:\Users\PC\ProjetoBatalha\obj\Debug\net8.0\ref\ProjetoBatalha.dll
